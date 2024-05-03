@@ -1,6 +1,6 @@
 Welcome!
 ---
-Hey there, welcome to my GitHub profile! I'm Tim Szameitat, better known as 1BQD, and I'm a developer from germany. I'm into game engines and Plugins
+Hey there, welcome to my GitHub profile! I'm Tim, better known as 1BQD, and I'm a developer from germany. I'm into game engines and Plugins
 
 What I do
 ---
