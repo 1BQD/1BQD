@@ -1,6 +1,6 @@
 Welcome!
 ---
-Hey there, welcome to my GitHub profile! I'm Tim, better known as 1BQD, and I'm a developer from germany. I'm into game engines and Plugins
+Hey there, welcome to my GitHub profile! I'm Tim, better known as 1BQD, and I'm a developer from germany. I'm into game engines.
 
 What I do
 ---
@@ -15,6 +15,8 @@ What I do
           <li><a href="https://gradle.org/">Gradle</a></li>
           <li><a href="https://github.com/google/guice">Guice</a></li>
           <li><a href="https://dev.bukkit.org/">Bukkit</a></li>
+          <li><a href="https://www.spigotmc.org/">Spigot</a></li>
+          <li><a href="https://docs.papermc.io/paper/dev/api">Paper</a></li>
         </ul>
       </details>
     <li><a href="https://www.python.org/">Python</a>
@@ -36,6 +38,8 @@ What I do
     <li><a href="https://git-scm.com/">Git</a></li>
     <li><a href="https://www.mysql.com/">MySQL</a></li>
     <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a></li>
+    <li><a href="https://code.visualstudio.com/"></a>Visual Studio Code</li>
   </ul>    
 </details>
 
