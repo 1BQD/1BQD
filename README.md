@@ -45,7 +45,7 @@ What I do
 
 Projects
 ---
-  
+  Unfortunately, no major public projects yet :(
   <h2 dir="auto"></h2>
 </details>
 
@@ -75,4 +75,4 @@ I've been working with Minecraft plugins for a while, I just enjoy developing or
 
 <h2>Find me</h2>
 
-<a href="https://www.youtube.com/channel/UCiNEuk7i6QetcvM_6WjIqOg" target="_blank"><img height="30" src="https://i.imgur.com/B5AutWa.png"/></a>
+<a href="" target="_blank"><img height="30" src="https://i.imgur.com/B5AutWa.png"/></a>
