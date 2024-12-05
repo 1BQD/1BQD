@@ -72,7 +72,3 @@ I've been working with Minecraft plugins for a while, I just enjoy developing or
 
   <h2 dir="auto"></h2>
 </details>
-
-<h2>Find me</h2>
-
-<a href="" target="_blank"><img height="30" src="https://i.imgur.com/B5AutWa.png"/></a>
